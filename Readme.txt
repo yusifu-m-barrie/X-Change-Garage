@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for using X-Change Garage Website Template
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Developer Name: Yusifu M. Barrie
+Developer Website URL: https://usifumbarrie.netlify.app/
+X-Change Garage Director: Daniel Salifu Samura
+
